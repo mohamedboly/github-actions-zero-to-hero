@@ -1,4 +1,5 @@
 name: My First GitHub Actions
+run-name: ${{ github.actor }} is learning GitHub Actions
 
 on: [push]
 
